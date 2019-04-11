@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TesteTemperature",
+            "request": "launch",
+            "mainClass": "TesteTemperature"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestChannel",
             "request": "launch",
             "mainClass": "TestChannel"
